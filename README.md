@@ -7,11 +7,11 @@ Thanks for visiting and I'd love to connect :airplane:!
 
 ## 
 - I’m currently working on Udacity Nanodegree Programme project on Data Analysis using Python
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding and exploring Tech stuffs
 - 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on Python or C# projects
 - 📫 How to reach me [dave.owino@gmail.com](mailto:dave.owino@gmail.com)
-- 📝 Check on my resume ()
+- 📝 Check on my [resume]()
 
 ## language & Tools
 
