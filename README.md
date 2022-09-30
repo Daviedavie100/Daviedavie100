@@ -11,6 +11,14 @@ Thanks for visiting and I'd love to connect :airplane:!
 - 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on Python or C# projects
 - 📫 How to reach me [dave.owino@gmail.com](mailto:dave.owino@gmail.com)
+- 📝 Check on my resume ()
+
+## language & Tools
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cp"></code>
 
 <!---
 Daviedavie100/Daviedavie100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
