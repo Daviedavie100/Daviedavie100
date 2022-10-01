@@ -1,12 +1,12 @@
-## Hi,👋 I'm David
+## Hi, :wave: I'm David
 
-Welcome to my profile! I'm an aspiring data analyst.  Currenlty I am a part-time coder and full-time high school mathematics tutor. 
+:gift_heart: Welcome to my profile :clap: I'm an aspiring data analyst. Currenlty I am a part-time coder and full-time high school mathematics tutor. 
 
 [![Linkedin Badge](https://img.shields.io/badge/david-owino-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-owino/)](https://www.linkedin.com/in/david-owino-85051a61/)  ![image](https://user-images.githubusercontent.com/7541585/193350417-cc4acf0c-7a24-403c-8d97-897f770b4ec0.png)  [![Twitter Badge](https://img.shields.io/badge/@DavieOwino-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DavieOwino)](https://twitter.com/DavieOwino)  ![image](https://user-images.githubusercontent.com/7541585/193350508-3d786930-c043-4a27-90f8-68c0f85cdc60.png)  [![Gmail Badge](https://img.shields.io/badge/dave.owino-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.owino@gmail.com)](mailto:dave.owino@gmail.com)
 
 Thanks for visiting and I'd love to [connect :airplane:](https://www.linkedin.com/in/david-owino-85051a61/)
 
-## Personal stuffs
+## Personal stuffs :seedling:
 
 - I’m currently working on Udacity Nanodegree Programme project on Data Analysis using Python
 - 👀 I’m interested in coding and exploring Tech stuffs
@@ -15,7 +15,7 @@ Thanks for visiting and I'd love to [connect :airplane:](https://www.linkedin.co
 - 📫 How to reach me [dave.owino@gmail.com](mailto:dave.owino@gmail.com)
 - 📝 Check on my [resume](https://github.com/Daviedavie100/Daviedavie100/blob/main/resume.docx)
 
-## language & Tools
+## language & Tools :bulb:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
