@@ -13,7 +13,7 @@ Thanks for visiting and I'd love to [connect :airplane:](https://www.linkedin.co
 - 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on Python or C# projects
 - 📫 How to reach me [dave.owino@gmail.com](mailto:dave.owino@gmail.com)
-- 📝 Check on my [resume]()
+- 📝 Check on my [resume](https://github.com/Daviedavie100/Daviedavie100/blob/main/resume.docx)
 
 ## language & Tools
 
