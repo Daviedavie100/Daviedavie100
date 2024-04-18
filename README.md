@@ -10,9 +10,10 @@ Thanks for visiting and I'd love to [connect :airplane:](https://www.linkedin.co
 
 ## Personal stuffs :seedling:
 
-- I’m currently working on Udacity Nanodegree Programme project on Data Analysis using Python
+- I have completed [Udacity](https://www.udacity.com/) Nanodegree Programme project on Data Analysis using Python and Data Analysis with Python project from [freeCodeCamp](https://www.freecodecamp.org/)
+- I’m currently working on manipulation data to perform exploratory data analysis on a dataset around student mental health and doing investigation on Netflix Movies at Datacamp
 - 👀 I’m interested in coding and exploring Tech stuffs
-- 🌱 I’m currently learning PowerBI
+- 🌱 I’m currently learning PowerBI at [Datacamp](https:wwww.dacamp.com)
 - 💞️ I’m looking to collaborate on Python or C# projects
 - 📫 How to reach me [dave.owino@gmail.com](mailto:dave.owino@gmail.com)
 - 📝 Check on my [resume](https://github.com/Daviedavie100/Daviedavie100/blob/main/resume.docx)
